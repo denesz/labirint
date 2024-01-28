@@ -1,0 +1,81 @@
+D:\E\XIIC\C#\Labirint\Labirint\bin\Debug\Labirint.exe.config
+D:\E\XIIC\C#\Labirint\Labirint\bin\Debug\Labirint.exe
+D:\E\XIIC\C#\Labirint\Labirint\bin\Debug\Labirint.pdb
+D:\E\XIIC\C#\Labirint\Labirint\obj\Debug\Labirint.csprojResolveAssemblyReference.cache
+D:\E\XIIC\C#\Labirint\Labirint\obj\Debug\Labirint.Form1.resources
+D:\E\XIIC\C#\Labirint\Labirint\obj\Debug\Labirint.Properties.Resources.resources
+D:\E\XIIC\C#\Labirint\Labirint\obj\Debug\Labirint.csproj.GenerateResource.Cache
+D:\E\XIIC\C#\Labirint\Labirint\obj\Debug\Labirint.exe
+D:\E\XIIC\C#\Labirint\Labirint\obj\Debug\Labirint.pdb
+D:\E\XIIC\C#\Labirint\Labirint\obj\Debug\Labirint.Form2.resources
+C:\Users\E\Desktop\LABIRINT NOU\Labirint\bin\Debug\Labirint.exe.config
+C:\Users\E\Desktop\LABIRINT NOU\Labirint\obj\Debug\Labirint.exe
+C:\Users\E\Desktop\LABIRINT NOU\Labirint\obj\Debug\Labirint.pdb
+C:\Users\E\Desktop\LABIRINT NOU\Labirint\bin\Debug\Labirint.exe
+C:\Users\E\Desktop\LABIRINT NOU\Labirint\bin\Debug\Labirint.pdb
+C:\Users\E\Desktop\LABIRINT NOU\Labirint\obj\Debug\Labirint.csprojResolveAssemblyReference.cache
+C:\Users\E\Desktop\LABIRINT NOU\Labirint\obj\Debug\Labirint.Form1.resources
+C:\Users\E\Desktop\LABIRINT NOU\Labirint\obj\Debug\Labirint.Form2.resources
+C:\Users\E\Desktop\LABIRINT NOU\Labirint\obj\Debug\Labirint.Properties.Resources.resources
+C:\Users\E\Desktop\LABIRINT NOU\Labirint\obj\Debug\Labirint.csproj.GenerateResource.Cache
+C:\Users\E\Desktop\LABIRINT FLORIN\Labirint\bin\Debug\Labirint.exe.config
+C:\Users\E\Desktop\LABIRINT FLORIN\Labirint\obj\Debug\Labirint.exe
+C:\Users\E\Desktop\LABIRINT FLORIN\Labirint\obj\Debug\Labirint.pdb
+C:\Users\E\Desktop\LABIRINT FLORIN\Labirint\bin\Debug\Labirint.exe
+C:\Users\E\Desktop\LABIRINT FLORIN\Labirint\bin\Debug\Labirint.pdb
+C:\Users\E\Desktop\LABIRINT FLORIN\Labirint\obj\Debug\Labirint.csprojResolveAssemblyReference.cache
+C:\Users\E\Desktop\LABIRINT FLORIN\Labirint\obj\Debug\Labirint.Form1.resources
+C:\Users\E\Desktop\LABIRINT FLORIN\Labirint\obj\Debug\Labirint.Form2.resources
+C:\Users\E\Desktop\LABIRINT FLORIN\Labirint\obj\Debug\Labirint.Properties.Resources.resources
+C:\Users\E\Desktop\LABIRINT FLORIN\Labirint\obj\Debug\Labirint.csproj.GenerateResource.Cache
+d:\An_scolar_2020_2021\_On_line\12A\Aplicati C#\Labirint\Labirint\bin\Debug\Labirint.exe.config
+d:\An_scolar_2020_2021\_On_line\12A\Aplicati C#\Labirint\Labirint\bin\Debug\Labirint.exe
+d:\An_scolar_2020_2021\_On_line\12A\Aplicati C#\Labirint\Labirint\bin\Debug\Labirint.pdb
+d:\An_scolar_2020_2021\_On_line\12A\Aplicati C#\Labirint\Labirint\obj\Debug\Labirint.csprojAssemblyReference.cache
+d:\An_scolar_2020_2021\_On_line\12A\Aplicati C#\Labirint\Labirint\obj\Debug\Labirint.Form1.resources
+d:\An_scolar_2020_2021\_On_line\12A\Aplicati C#\Labirint\Labirint\obj\Debug\Labirint.Form2.resources
+d:\An_scolar_2020_2021\_On_line\12A\Aplicati C#\Labirint\Labirint\obj\Debug\Labirint.Properties.Resources.resources
+d:\An_scolar_2020_2021\_On_line\12A\Aplicati C#\Labirint\Labirint\obj\Debug\Labirint.csproj.GenerateResource.cache
+d:\An_scolar_2020_2021\_On_line\12A\Aplicati C#\Labirint\Labirint\obj\Debug\Labirint.csproj.CoreCompileInputs.cache
+d:\An_scolar_2020_2021\_On_line\12A\Aplicati C#\Labirint\Labirint\obj\Debug\Labirint.exe
+d:\An_scolar_2020_2021\_On_line\12A\Aplicati C#\Labirint\Labirint\obj\Debug\Labirint.pdb
+d:\An_scolar_2020_2021\_On_line\12A\Aplicati C#\Labirint\Labirint\obj\Debug\Labirint.Form3.resources
+d:\An_scolar_2020_2021\_On_line\12A\Aplicati C#\Labirint\Labirint\obj\Debug\Labirint.Form4.resources
+D:\Sergiu\Proiecte c#\Labirint\Labirint\Labirint\bin\Debug\Labirint.exe.config
+D:\Sergiu\Proiecte c#\Labirint\Labirint\Labirint\bin\Debug\Labirint.exe
+D:\Sergiu\Proiecte c#\Labirint\Labirint\Labirint\bin\Debug\Labirint.pdb
+D:\Sergiu\Proiecte c#\Labirint\Labirint\Labirint\obj\Debug\Labirint.csprojAssemblyReference.cache
+D:\Sergiu\Proiecte c#\Labirint\Labirint\Labirint\obj\Debug\Labirint.Form1.resources
+D:\Sergiu\Proiecte c#\Labirint\Labirint\Labirint\obj\Debug\Labirint.Form2.resources
+D:\Sergiu\Proiecte c#\Labirint\Labirint\Labirint\obj\Debug\Labirint.Form3.resources
+D:\Sergiu\Proiecte c#\Labirint\Labirint\Labirint\obj\Debug\Labirint.Form4.resources
+D:\Sergiu\Proiecte c#\Labirint\Labirint\Labirint\obj\Debug\Labirint.Properties.Resources.resources
+D:\Sergiu\Proiecte c#\Labirint\Labirint\Labirint\obj\Debug\Labirint.csproj.GenerateResource.cache
+D:\Sergiu\Proiecte c#\Labirint\Labirint\Labirint\obj\Debug\Labirint.csproj.CoreCompileInputs.cache
+D:\Sergiu\Proiecte c#\Labirint\Labirint\Labirint\obj\Debug\Labirint.exe
+D:\Sergiu\Proiecte c#\Labirint\Labirint\Labirint\obj\Debug\Labirint.pdb
+D:\Sergiu\Proiecte c#\Labirint\Labirint\Labirint\obj\Debug\Labirint.Form5.resources
+D:\Sergiu\Proiecte c#\Labirint\Labirint\Labirint\obj\Debug\Labirint.Form6.resources
+D:\Sergiu\Proiecte c#\Labirint\Labirint\Labirint\obj\Debug\Labirint.Form7.resources
+D:\Sergiu\Proiecte c#\Labirint\Labirint\Labirint\obj\Debug\Labirint.Form8.resources
+D:\Sergiu\Proiecte c#\Labirint\Labirint\Labirint\obj\Debug\Labirint.Form9.resources
+D:\Sergiu\Proiecte c#\Labirint\Labirint\Labirint\obj\Debug\Labirint.Form10.resources
+C:\Users\denis\OneDrive\Desktop\Labirint\Labirint\Labirint\bin\Debug\Labirint.exe.config
+C:\Users\denis\OneDrive\Desktop\Labirint\Labirint\Labirint\bin\Debug\Labirint.exe
+C:\Users\denis\OneDrive\Desktop\Labirint\Labirint\Labirint\bin\Debug\Labirint.pdb
+C:\Users\denis\OneDrive\Desktop\Labirint\Labirint\Labirint\obj\Debug\Labirint.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Desktop\Labirint\Labirint\Labirint\obj\Debug\Labirint.Form1.resources
+C:\Users\denis\OneDrive\Desktop\Labirint\Labirint\Labirint\obj\Debug\Labirint.Form10.resources
+C:\Users\denis\OneDrive\Desktop\Labirint\Labirint\Labirint\obj\Debug\Labirint.Form2.resources
+C:\Users\denis\OneDrive\Desktop\Labirint\Labirint\Labirint\obj\Debug\Labirint.Form3.resources
+C:\Users\denis\OneDrive\Desktop\Labirint\Labirint\Labirint\obj\Debug\Labirint.Form4.resources
+C:\Users\denis\OneDrive\Desktop\Labirint\Labirint\Labirint\obj\Debug\Labirint.Form5.resources
+C:\Users\denis\OneDrive\Desktop\Labirint\Labirint\Labirint\obj\Debug\Labirint.Form6.resources
+C:\Users\denis\OneDrive\Desktop\Labirint\Labirint\Labirint\obj\Debug\Labirint.Form7.resources
+C:\Users\denis\OneDrive\Desktop\Labirint\Labirint\Labirint\obj\Debug\Labirint.Form8.resources
+C:\Users\denis\OneDrive\Desktop\Labirint\Labirint\Labirint\obj\Debug\Labirint.Form9.resources
+C:\Users\denis\OneDrive\Desktop\Labirint\Labirint\Labirint\obj\Debug\Labirint.Properties.Resources.resources
+C:\Users\denis\OneDrive\Desktop\Labirint\Labirint\Labirint\obj\Debug\Labirint.csproj.GenerateResource.cache
+C:\Users\denis\OneDrive\Desktop\Labirint\Labirint\Labirint\obj\Debug\Labirint.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Desktop\Labirint\Labirint\Labirint\obj\Debug\Labirint.exe
+C:\Users\denis\OneDrive\Desktop\Labirint\Labirint\Labirint\obj\Debug\Labirint.pdb
